@@ -13,14 +13,7 @@ int findRepeat(char *,char *);
 void reverse(char *);
 int main()
 {
-	char ptr[100];
-	char bos[100];
 	
-	gets(ptr);
-	gets(bos);
-	
-	reverse(ptr);
-	puts(ptr);
 	
 }
 
